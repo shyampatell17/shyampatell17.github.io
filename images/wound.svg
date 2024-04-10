@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
+	 xml:space="preserve">
+<path style="fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;" d="M508.028,888.413"/>
+<rect style="fill:#856DB1;" width="1000" height="1000"/>
+<radialGradient id="SVGID_1_" cx="492.5322" cy="493.9537" r="323.0175" gradientTransform="matrix(1.4487 0 0 2.2354 -213.5461 -610.2473)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.3576" style="stop-color:#262262"/>
+	<stop  offset="0.5234" style="stop-color:#9E1F63"/>
+</radialGradient>
+<path style="fill:url(#SVGID_1_);" d="M509.673,74.759c0,0-613.513,352.679,0,838.39
+	C509.673,913.149,1079.659,466.324,509.673,74.759z"/>
+<radialGradient id="SVGID_2_" cx="500" cy="493.9537" r="292.4185" gradientTransform="matrix(1.1135 0 0 2 -56.7675 -493.9537)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.3313" style="stop-color:#262262"/>
+	<stop  offset="0.5503" style="stop-color:#9E1F63"/>
+</radialGradient>
+<path style="fill:url(#SVGID_2_);" d="M506.73,114.468c0,0-426.893,319.27,0,758.971C506.73,873.439,903.337,468.941,506.73,114.468
+	z"/>
+<radialGradient id="SVGID_3_" cx="506.0441" cy="501.9676" r="240.7345" gradientTransform="matrix(1 0 0 2 0 -501.9676)" gradientUnits="userSpaceOnUse">
+	<stop  offset="9.214744e-04" style="stop-color:#C086BB"/>
+	<stop  offset="0.6206" style="stop-color:#9E1F63"/>
+</radialGradient>
+<radialGradient id="SVGID_4_" cx="506.0441" cy="502.0302" r="241.419" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.1241" style="stop-color:#262262"/>
+	<stop  offset="0.6182" style="stop-color:#9E1F63"/>
+</radialGradient>
+<path style="fill:url(#SVGID_3_);stroke:url(#SVGID_4_);stroke-miterlimit:10;" d="M504.749,177.53c0,0-229.243,260.327,0,648.875
+	C504.749,826.405,739.821,494.197,504.749,177.53z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
