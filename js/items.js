@@ -200,6 +200,38 @@ $(document).ready(function() {
           "- Contributed to the success of the event through various volunteer activities.\n")
 
     });
+
+    $('#about2').dblclick(function() {
+        alert("Career Goal and Resume Highlights:\n " +
+            "\n " +
+            "- Advanced Diploma candidate in Computer Programming and Analysis at George Brown College, specializing in front-end and back-end development.\n " +
+            "\n " +
+            "- Achieved Dean's List recognition for outstanding academic performance in Semester 1, 2022, and Semester 3, 2024.\n" +
+            "\n " +
+            "- Excelled in front-end development with HTML and CSS in the first year, followed by proficient back-end development in JavaScript and SQL in the second year.\n" +
+            "\n " +
+            "- Demonstrated expertise by securing a position as a Teaching Assistant, facilitating engaging activities and project-based learning.\n" +
+            "\n " +
+            "- Leveraged strong interpersonal skills to provide one-on-one tutoring sessions, fostering increased understanding and improved grades for students.\n" +
+            "\n " +
+            "- Designed interactive Zoom sessions for increased motivation.\n")
+
+    });
+
+    $('#about3').dblclick(function() {
+        alert("Summary of George Brown College Skills:\n " +
+
+            "1. Proficient in HTML, CSS, JavaScript, and SQL for web development projects.\n " +
+            "\n " +
+            "2. Experience in designing and implementing engaging activities and project-based learning.\n " +
+            "\n " +
+            "3. Strong collaboration and teamwork skills, demonstrated through work as a Teaching Assistant.\n " +
+            "\n " +
+            "4. Effective communication and mentoring abilities, evidenced by successful one-on-one tutoring sessions.\n " +
+            "\n " +
+            "5. Commitment to fostering a supportive learning environment and encouraging student interest in STEM education programs.\n ")
+
+    });
   
     /* Contact */
   
@@ -503,13 +535,12 @@ $(document).ready(function() {
       $('#item-1-projects').children(".item-arrow").hide();
       $('#item-1-projects').children(".item-arrow-grey").show();
     });
-    
-    $('#item-3-bjork').dblclick(function() {
-        window.open('https://www.youtube.com/watch?v=wMCOCvrFJgw');
+
+    $('#c1').dblclick(function() {
+        window.open('https://github.com/shyampatell17/Dean-s-List');
     });
-    $('#item-3-pusha').dblclick(function() {
-        //window.open('https://www.youtube.com/watch?v=7s63y_kfWt4');
-        openNewWindow(300,556,"Pusha T - H.G.T.V","https://www.youtube.com/embed/7s63y_kfWt4","#item-3-pusha");
+    $('#c2').dblclick(function() {
+        window.open('https://github.com/shyampatell17/Dean-s-List');
     });
 
     $('#item-3-offtop').dblclick(function() {
@@ -579,12 +610,12 @@ $(document).ready(function() {
       $('#item-1-projects').children(".item-arrow-grey").show();
     });
   
-    $('#item-3-emoji').dblclick(function() {
-        window.open('http://emoji.ink');
+    $('#proj-1').dblclick(function() {
+        window.open('https://shyampatell17.github.io/LoFi-Study-Web/');
     });
   
-    $('#item-3-bjork').dblclick(function() {
-        window.open('http://bjork.com/');
+    $('#proj-2').dblclick(function() {
+        window.open('https://shyampatell17.github.io/FileDonutt/');
     });
   
     $('#item-3-gf').dblclick(function() {
